@@ -26,14 +26,14 @@
 
 ## 🐱 멤버
 
-| <img src="https://avatars.githubusercontent.com/u/118153233?v=4.png" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/124787447?v=4.png" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/62841992?v=4.png" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/72564777?v=4.png" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/77716414?v=4.png" width="100" height="100"> |
+| <img src="https://avatars.githubusercontent.com/u/124787447?v=4.png" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/118153233?v=4.png" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/62841992?v=4.png" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/72564777?v=4.png" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/77716414?v=4.png" width="100" height="100"> |
 |:---:|:---:|:---:|:---:|:---:|
-| [택이](https://github.com/taek2222) | [레오](https://github.com/kjyyjk) | [몽이](https://github.com/wodnd0131) | [꾹이](https://github.com/kiwoook) | [듀이](https://github.com/ljhee92) |
+| [레오](https://github.com/kjyyjk) | [비타](https://github.com/taek2222) | [몽이](https://github.com/wodnd0131) | [꾹이](https://github.com/kiwoook) | [듀이](https://github.com/ljhee92) |
 
 ## 🧑‍💻 역할
 
-- 비타: 우아한스터디 레포지토리 개설
 - 레오: 바지사장(대장)
+- 비타: 우아한스터디 레포지토리 개설
 - 몽이: 스터디룸 예약
 - 꾹이: 깃허브 슬랙 연동
 - 듀이: 리드미 작성
