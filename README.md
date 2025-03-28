@@ -37,3 +37,9 @@
 - 몽이: 스터디룸 예약
 - 꾹이: 깃허브 슬랙 연동
 - 듀이: 리드미 작성
+
+## 🧑‍🧑‍🧒‍🧒 스터디 기록
+
+|일자|주제|인증샷|
+|:---:|:---:|:---:|
+|`2025.03.28(금)`|Ch 1. 객체, 설계|<img src="https://github.com/user-attachments/assets/3371dfbf-43af-49a5-becd-b458dd3cfe7c" width="250" height="200">|
