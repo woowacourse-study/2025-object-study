@@ -43,3 +43,4 @@
 |일자|주제|인증샷|
 |:---:|:---:|:---:|
 |`2025.03.28(금)`|Ch 1. 객체, 설계|<img src="https://github.com/user-attachments/assets/3371dfbf-43af-49a5-becd-b458dd3cfe7c" width="250" height="200">|
+|`2025.04.04(금)`|Ch 2. 객체지향 프로그래밍|<img src="https://github.com/user-attachments/assets/23aa7eb1-4f64-4559-8ea1-7990873fe934" width="250" height="200">|
