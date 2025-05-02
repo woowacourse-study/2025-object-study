@@ -46,4 +46,4 @@
 |`2025.04.04(금)`|Ch 2. 객체지향 프로그래밍|<img src="https://github.com/user-attachments/assets/23aa7eb1-4f64-4559-8ea1-7990873fe934" width="250" height="200">|
 |`2025.04.18(금)`|Ch 3. 역할, 책임, 협력| - |
 |`2025.04.25(금)`|Ch 4. 설계 품질과 트레이드 오프|<img src="https://github.com/user-attachments/assets/ed1e4def-8de6-40cb-9834-0348ba72a89c" width="250" height="200">|
-
+|`2025.05.02(금)`|Ch 5. 책임 할당하기|<img src="https://github.com/user-attachments/assets/c9abd1c1-e7f0-474b-b3c5-b068df763aa8" width="250" height="200">|
