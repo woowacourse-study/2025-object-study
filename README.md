@@ -48,5 +48,5 @@
 |`2025.04.25(금)`|Ch 4. 설계 품질과 트레이드 오프|<img src="https://github.com/user-attachments/assets/ed1e4def-8de6-40cb-9834-0348ba72a89c" width="250" height="200">|
 |`2025.05.02(금)`|Ch 5. 책임 할당하기|<img src="https://github.com/user-attachments/assets/c9abd1c1-e7f0-474b-b3c5-b068df763aa8" width="250" height="200">|
 |`2025.05.09(금)`|Ch 6. 메시지와 인터페이스|<img src="https://github.com/user-attachments/assets/3fd74f46-0052-48eb-be8b-e6ffdf6a2d54" width="250" height="200">|
-|`2025.05.17(토)`|Ch 7. 객체 분해|<img src="https://github.com/user-attachments/assets/88b31a0b-d348-473a-9c1a-cc5cd44b9384" width="250" height="200">|
+|`2025.05.16(금)`|Ch 7. 객체 분해|<img src="https://github.com/user-attachments/assets/88b31a0b-d348-473a-9c1a-cc5cd44b9384" width="250" height="200">|
 
