@@ -50,4 +50,4 @@
 |`2025.05.09(금)`|Ch 6. 메시지와 인터페이스|<img src="https://github.com/user-attachments/assets/3fd74f46-0052-48eb-be8b-e6ffdf6a2d54" width="250" height="200">|
 |`2025.05.16(금)`|Ch 7. 객체 분해|<img src="https://github.com/user-attachments/assets/88b31a0b-d348-473a-9c1a-cc5cd44b9384" width="250" height="200">|
 |`2025.05.23(금)`|Ch 8. 의존성 관리하기|<img src="https://github.com/user-attachments/assets/c2d9abbd-6cfa-4b60-862c-924e471c9867" width="250" height="200">|
-
+|`2025.05.30(금)`|Ch 9. 유연한 설계|<img src="https://github.com/user-attachments/assets/54a5bbe2-5879-41e0-87da-658c109d7f10" width="250" height="200">|
