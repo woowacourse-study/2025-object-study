@@ -51,4 +51,5 @@
 |`2025.05.16(금)`|Ch 7. 객체 분해|<img src="https://github.com/user-attachments/assets/88b31a0b-d348-473a-9c1a-cc5cd44b9384" width="250" height="200">|
 |`2025.05.23(금)`|Ch 8. 의존성 관리하기|<img src="https://github.com/user-attachments/assets/c2d9abbd-6cfa-4b60-862c-924e471c9867" width="250" height="200">|
 |`2025.05.30(금)`|Ch 9. 유연한 설계|<img src="https://github.com/user-attachments/assets/54a5bbe2-5879-41e0-87da-658c109d7f10" width="250" height="200">|
-|`2025.06.06(목)`|Ch 10. 상속과 코드 재사용|<img src="https://github.com/user-attachments/assets/6d094e6b-a8b0-4ce4-ba50-59d4eb3d92f4" width="250" height="200">|
+|`2025.06.05(목)`|Ch 10. 상속과 코드 재사용|<img src="https://github.com/user-attachments/assets/6d094e6b-a8b0-4ce4-ba50-59d4eb3d92f4" width="250" height="200">|
+|`2025.06.12(목)`|Ch 11. 합성과 유연한 설계|<img src="https://github.com/user-attachments/assets/a2ccaaa0-a91f-409b-8d66-45eeff0aeea7" width="250" height="200">|
