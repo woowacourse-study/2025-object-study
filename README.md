@@ -54,3 +54,4 @@
 |`2025.06.05(목)`|Ch 10. 상속과 코드 재사용|<img src="https://github.com/user-attachments/assets/6d094e6b-a8b0-4ce4-ba50-59d4eb3d92f4" width="250" height="200">|
 |`2025.06.12(목)`|Ch 11. 합성과 유연한 설계|<img src="https://github.com/user-attachments/assets/a2ccaaa0-a91f-409b-8d66-45eeff0aeea7" width="250" height="200">|
 |`2025.06.19(목)`|Ch 12. 다형성|<img src="https://github.com/user-attachments/assets/06f05206-a08a-4567-9e23-bebccb21f256" width="250" height="200">|
+|`2025.06.26(목)`|Ch 13. 서브클래싱과 서브타이핑|<img src="https://github.com/user-attachments/assets/c875aaa4-487d-457c-8d3f-5eef26c35d0c" width="250" height="200">|
