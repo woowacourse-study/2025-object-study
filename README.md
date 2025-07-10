@@ -56,3 +56,4 @@
 |`2025.06.19(목)`|Ch 12. 다형성|<img src="https://github.com/user-attachments/assets/06f05206-a08a-4567-9e23-bebccb21f256" width="250" height="200">|
 |`2025.06.26(목)`|Ch 13. 서브클래싱과 서브타이핑|<img src="https://github.com/user-attachments/assets/c875aaa4-487d-457c-8d3f-5eef26c35d0c" width="250" height="200">|
 |`2025.07.03(목)`|Ch 14. 일관성 있는 협력|<img src="https://github.com/user-attachments/assets/238b486e-94dd-4aaa-8781-9faba11f8269" width="250" height="200">|
+|`2025.07.10(목)`|Ch 15. 디자인 패턴과 프레임워크|<img src="https://github.com/user-attachments/assets/eff029bb-4564-4ed1-91ce-2200030e89b3" width="200" height="250">|
